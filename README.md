@@ -29,6 +29,8 @@ me.Routine();
 ```
 
 ## 💻 Technologies and Tools
+
+<!-- Images https://github.com/devicons/devicon -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
