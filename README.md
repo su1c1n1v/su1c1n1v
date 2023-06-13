@@ -1,4 +1,6 @@
 ## Hello Guys 👋  
+
+<!-- Emojis https://gist.github.com/roachhd/1f029bd4b50b8a524f3c -->
 <img src="https://komarev.com/ghpvc/?username=su1c1n1v&style=flat-square&color=blue" alt="Visitors"/>
 
 <!--I'm Vinícius Costa, a 23-year-old Full Stack Developer with a passion for building innovative and user-centric applications. Originally from Brasília, Brazil, I am currently living and working in the vibrant city of Lisbon, Portugal.-->
