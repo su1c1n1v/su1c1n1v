@@ -4,8 +4,8 @@
 <!--I'm Vinícius Costa, a 23-year-old Full Stack Developer with a passion for building innovative and user-centric applications. Originally from Brasília, Brazil, I am currently living and working in the vibrant city of Lisbon, Portugal.-->
 
 ```C#
-public class SoftwareEngineer{
-
+public class SoftwareEngineer
+{
     public SoftwareEngineer()
     {
         Name = "Vinícius Costa";
